@@ -2,9 +2,9 @@
 👋 Hi, I’m **Tenzin Kalsang**  
 🎓 BCA Student • 💻 Software Developer • 🛡️ Tech Explorer • 🧠 Curious Mind
 
-I enjoy **understanding systems deeply** — whether it's crafting sleek frontends, building responsive UIs, writing low-level x86 assembly, or exploring networking and cybersecurity.
+I enjoy **understanding systems deeply** , whether it's crafting sleek frontends, building responsive UIs, writing low-level x86 assembly, or exploring networking and cybersecurity.
 
-🔧 Good software isn't just about solving problems — it's about solving the *right* problems, efficiently and elegantly.
+🔧 Good software isn't just about solving problems , it's about solving the *right* problems, efficiently and elegantly.
 
 🌐 **Portfolio**: [tenzinkalsang.site](https://tenzinkalsang.site)  
 📚 **Interests**: Software Engineering • Game Development • Operating Systems • Networking • Cybersecurity  
@@ -72,7 +72,7 @@ I enjoy **understanding systems deeply** — whether it's crafting sleek fronten
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quotes
 <!--START_SECTION:random-quote-->
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <!--END_SECTION:random-quote-->
