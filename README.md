@@ -1,4 +1,4 @@
-# 💫 About Me:
+# : About Me : 
 👋 Hi, I’m **Tenzin Kalsang**  
 🎓 BCA Student • 💻 Software Developer • 🛡️ Tech Explorer • 🧠 Curious Mind
 
