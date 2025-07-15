@@ -1,6 +1,6 @@
 👋 Hello there! I'm Tenzin Kalsang
 
-🎓 BCA student | 💻 Software Developer | 🛡️ Tech Enthusiast | curious mind
+🎓 BCA student | 💻 Software Developer | 🛡️ Tech Enthusiast | Curious Mind
 
 I'm passionate about building efficient and purposeful software. Whether crafting dynamic websites, diving into low-level systems, or exploring the security side of networking. I enjoy learning by creating and solving real problems.
 
