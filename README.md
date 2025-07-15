@@ -1,3 +1,13 @@
+👋 Hello there! I'm Tenzin Kalsang
+
+🎓 BCA student | 💻 Software Developer | 🛡️ Tech Enthusiast | curious mind
+
+I'm passionate about building efficient and purposeful software. Whether crafting dynamic websites, diving into low-level systems, or exploring the security side of networking. I enjoy learning by creating and solving real problems.
+
+🌐 Website: tenzinkalsang.site
+🔍 Interests: Software Engineering, Game Development, Networking, Cybersecurity
+🛠️ Languages: HTML, CSS, JavaScript, C, C++, Java, SQL, x86 Assembly
+📘 Always learning: Better design, deeper systems, and stronger code.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tttt___kalsang) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tenzin-kalsang-090985285) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25899660) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kalsang_y0) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Hilarious_Monke) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kalsangkalsang5@gmail.com) 
