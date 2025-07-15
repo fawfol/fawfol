@@ -14,9 +14,9 @@ I’m someone who enjoys **understanding systems deeply** — whether it's desig
 ---
 
 ## 📂 Featured Projects:
+-**  Duogram*** - App using React native for 2 people to share momoents
 - **🧠 Tibetan Transliterator** – Java-based transliterator; Android app in development  
-- **🕹️ Pivot Brawl** – Physics-based 2D fighting game using JavaScript & Phaser  
-- **🧱 Custom OS** – Bootloader + Kernel in Assembly & C (70x24 Maze + File system in progress)  
+- **🕹️ Fling* – Physics-based 2D fighting game using JavaScript & Phaser  
 - **🌊 Underwater Explorer** – Maze game with ASCII rendering & memory-level controls
 
 > You can explore these on my [portfolio site](https://tenzinkalsang.site) or [GitHub](https://github.com/fawfol)
