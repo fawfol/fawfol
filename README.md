@@ -17,10 +17,10 @@ I enjoy **understanding systems deeply** — whether it's crafting sleek fronten
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [📱 Duogram](https://github.com/fawfol/duogram) | A React Native app for two people to share private moments | React Native, Firebase |
-| [🧠 Tibetan Transliterator](https://github.com/fawfol/tibetan-transliterator) | Java-based transliterator to convert English phonetics into Tibetan. Android version in development | Java, Android |
-| [🕹️ Fling](https://github.com/fawfol/fling) | 2D physics-based jointed fighting game using muscle-like movement | Phaser 3, JavaScript |
-| [🌊 Underwater Explorer](https://github.com/fawfol/underwater-explorer) | ASCII maze game built with low-level memory control and terminal-based UI | x86 Assembly, C |
+| [📱 Duogram](https://github.com/fawfol/duogram) | A React Native app for two people to share private moments | React Native, Firebase, Agora |
+| [🧠 Tibetan Transliterator](https://github.com/fawfol/tibetan-transliterator) | Java-based transliterator to convert English phonetics into Tibetan. Android version in development | Java |
+| [🕹️ Fling](https://github.com/fawfol/fling) | 2D physics-based inspired by Jumpking | Phaser 3, JavaScript |
+| [🌊 Underwater Explorer](https://github.com/fawfol/underwater-explorer) | ASCII maze game built with low-level memory control and terminal-based UI | x86 Assembly|
 
 > 🧪 You can explore all of these on my [portfolio site](https://tenzinkalsang.site) or [GitHub](https://github.com/fawfol)
 
