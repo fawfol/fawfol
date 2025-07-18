@@ -20,7 +20,7 @@ I enjoy **understanding systems deeply** , whether it's crafting sleek frontends
 | [ Duogram ](https://github.com/fawfol/duogram) | A React Native app for two people to share private moments | React Native, Firebase, Agora |
 | [ Tibetan Transliterator ](https://github.com/fawfol/tibetan-transliterator) | Java-based transliterator to convert English phonetics into Tibetan. Android version in development | Java |
 | [ Fling ](https://tenzinkalsang.site/modular-index/Fling) | 2D physics-based inspired by Jumpking | Phaser 3, JavaScript |
-| [ Underwater Explorer ](https://tenzinkalsang.site/modular-index/Geolocate-alarm/index.html) | Location based alarm rings within 500mtr of marked Desti | Html/Css, Js, leaflet |
+| [ Geolocation Alarm ](https://tenzinkalsang.site/modular-index/Geolocate-alarm/index.html) | Location based alarm rings within 500mtr of marked Desti | html/Css, Js, leaflet |
 | [ Bootloader ](https://github.com/fawfol/bootloader) | simple bootloader | x86 Assembly, Makefile |
 | [ MazeGame in asm ](https://github.com/fawfol/MazeGame-x86asm-) | ASCII maze game built with low-level memory control and terminal-based UI | x86 Assembly|
 
