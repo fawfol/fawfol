@@ -24,7 +24,7 @@ I enjoy **understanding systems deeply** , whether it's crafting sleek frontends
 | [ Bootloader ](https://github.com/fawfol/bootloader) | simple bootloader | x86 Assembly, Makefile |
 | [ MazeGame in asm ](https://github.com/fawfol/MazeGame-x86asm-) | ASCII maze game built with low-level memory control and terminal-based UI | x86 Assembly|
 
-> 🧪 You can explore all of these on my [portfolio site](https://tenzinkalsang.site) or [GitHub](https://github.com/fawfol)
+> 🧪 You can explore all of these on my [portfolio site](https://tenzinkalsang.site) 
 
 ---
 
