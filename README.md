@@ -2,14 +2,13 @@
 👋 Hi, I’m **Tenzin Kalsang**  
 🎓 BCA Student • 💻 Software Developer • 🛡️ Tech Explorer • 🧠 Curious Mind
 
-I enjoy **understanding systems deeply** , whether it's crafting sleek frontends, building responsive UIs, writing low-level x86 assembly, or exploring networking and cybersecurity.
-
+I enjoy **understanding systems deeply** , whether it's crafting frontends UIs, writing low-level programs, or exploring Networking and Embedded Systems.
 🔧 Good software isn't just about solving problems , it's about solving the *right* problems, efficiently and elegantly.
 
 🌐 **Portfolio**: [tenzinkalsang.site](https://tenzinkalsang.site)  
 📚 **Interests**: Software Engineering • Game Development • Operating Systems • Networking • Cybersecurity  
-🛠️ **Languages**: HTML, CSS, JavaScript, C, C++, Java, SQL, x86 Assembly, Python  
-📘 **Currently Learning**: Game Physics • Memory Management • Compiler Design
+🛠️ **Languages**: HTML, CSS, JavaScript, C, C++, Java, SQL, x86, Python, VB
+📘 **Currently Learning**: Embedded • Memory Management • Compiler Design
 
 ---
 
