@@ -17,7 +17,7 @@ I enjoy **understanding systems deeply** , whether it's crafting frontends UIs, 
 | Project | Description | Tech |
 |--------|-------------|------|
 | [ Duogram ](https://github.com/fawfol/duogram) | A React Native app for two people to share private moments | React Native, Firebase, Agora |
-| [ Tibetan Transliterator ](https://github.com/fawfol/tibetan-transliterator) | Java-based transliterator to convert English phonetics into Tibetan. Android version in development | Java |
+| [ Tibetan Transliterator ](https://github.com/fawfol/English-to-Tibetan-Transliterator) | Java-based transliterator to convert English phonetics into Tibetan. Android version in development | Java, Python |
 | [ Fling ](https://tenzinkalsang.site/modular-index/Fling) | 2D physics-based inspired by Jumpking | Phaser 3, JavaScript |
 | [ Geolocation Alarm ](https://tenzinkalsang.site/modular-index/Geolocate-alarm/index.html) | Location based alarm rings within 500mtr of marked Desti | html/Css, Js, leaflet |
 | [ Bootloader ](https://github.com/fawfol/bootloader) | simple bootloader | x86 Assembly, Makefile |
@@ -49,6 +49,7 @@ I enjoy **understanding systems deeply** , whether it's crafting frontends UIs, 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![VB](https://img.shields.io/badge/Visual%20Basic-Code-blue?style=for-the-badge&logo=visualbasic)
 
 ---
 
