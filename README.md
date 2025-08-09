@@ -17,7 +17,7 @@ I enjoy **understanding systems deeply** , whether it's crafting frontends UIs, 
 | Project | Description | Tech |
 |--------|-------------|------|
 | [ Duogram ](https://github.com/fawfol/duogram) | A React Native app for two people to share private moments | React Native, Firebase, Agora |
-| [ Tibetan Transliterator ](https://github.com/fawfol/English-to-Tibetan-Transliterator) | Java-based transliterator to convert English phonetics into Tibetan. Android version in development | Java, Python |
+| [ Tibetan Transliterator ]([https://github.com/fawfol/English-to-Tibetan-Transliterator](https://huggingface.co/spaces/FAWFUL67/en2bo)) | Java-based transliterator to convert English phonetics into Tibetan. Android version in development | Java, Python |
 | [ Fling ](https://tenzinkalsang.site/modular-index/Fling) | 2D physics-based inspired by Jumpking | Phaser 3, JavaScript |
 | [ Geolocation Alarm ](https://tenzinkalsang.site/modular-index/Geolocate-alarm/index.html) | Location based alarm rings within 500mtr of marked Desti | html/Css, Js, leaflet |
 | [ Bootloader ](https://github.com/fawfol/bootloader) | simple bootloader | x86 Assembly, Makefile |
