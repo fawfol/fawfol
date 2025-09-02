@@ -49,7 +49,7 @@ I enjoy **understanding systems deeply** , whether it's crafting frontends UIs, 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![VB](https://img.shields.io/badge/Visual%20Basic-Code-blue?style=for-the-badge&logo=visualbasic)
+![VB](https://img.shields.io/badge/Visual%20Basic-(6.0)(.net)-blue?style=for-the-badge&logo=visualbasic)
 
 ---
 
