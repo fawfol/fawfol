@@ -19,6 +19,7 @@ I enjoy **understanding systems deeply** , whether it's crafting frontends UIs, 
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [ Kalsang OS ](https://github.com/fawfol/myos) | My own self hosting operating system | x86 Assembly, Makefile, Computer system |
 | [ Duogram ](https://github.com/fawfol/duogram) | A React Native app for two people to share private moments | React Native, Firebase, Agora |
 | [ Tibetan Transliterator ](https://huggingface.co/spaces/FAWFUL67/en2bo) | Java-based transliterator to convert English phonetics into Tibetan. Android version in development | Java, Python |
 | [ Fling ](https://tenzinkalsang.online/modular-index/Fling) | 2D physics-based inspired by Jumpking | Phaser 3, JavaScript |
