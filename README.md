@@ -1,63 +1,69 @@
-# : About Me : 
+# ⚙️ Tenzin Kalsang | Embedded Systems & Firmware
 👋 Hi, I’m **Tenzin Kalsang**  
-🎓 BCA Student • 💻 Software Developer • 🛡️ Tech Explorer • 🧠 Curious Mind
+⚙️ **Embedded Firmware Engineer | Low-Level Systems Developer | OS Enthusiast**
 
-I enjoy **understanding systems deeply** , whether it's crafting frontends UIs, writing low-level programs, or exploring Networking and Embedded Systems.
-🔧 Good software isn't just about solving problems , it's about solving the *right* problems, efficiently and elegantly.
+I specialize in bridging the gap between hardware and software. I enjoy building systems from the silicon registers up—whether that's writing custom x86 bootloaders, developing monolithic kernels in C, or programming ARM microcontrollers. 
+
+🔧 Good firmware isn't just about making code run; it's about cycle-accurate efficiency, memory safety, and understanding the physical electronics beneath the logic.
 
 🌐 **Portfolio**: [tenzinkalsang.online](https://tenzinkalsang.online) 
 
-📚 **Interests**: Software Engineering • Game Development • Operating Systems • Networking • Cybersecurity 
- 
-🛠️ **Languages**: HTML, CSS, JavaScript, C, C++, Java, SQL, x86, Python, VB
-
-📘 **Currently Learning**: Embedded • Memory Management • Compiler Design
+📚 **Core Domains**: Embedded Systems • Bare-Metal Programming • Operating Systems • Hardware Debugging  
+🛠️ **Languages**: C, x86 Assembly, C++, Python, Java, JavaScript  
+📘 **Currently Learning**: RTOS (FreeRTOS) • ARM Cortex-M architecture • Hardware Protocols (I2C, SPI, UART)
 
 ---
 
-## 📂 Featured Projects:
+## 🔬 Featured Firmware & Systems Projects
 
-| Project | Description | Tech |
+| Project | Description | Tech / Hardware |
 |--------|-------------|------|
-| [ Kalsang OS ](https://github.com/fawfol/myos) | My own self hosting operating system | x86 Assembly, Makefile, Computer system |
-| [ Duogram ](https://github.com/fawfol/duogram) | A React Native app for two people to share private moments | React Native, Firebase, Agora |
-| [ Tibetan Transliterator ](https://huggingface.co/spaces/FAWFUL67/en2bo) | Java-based transliterator to convert English phonetics into Tibetan. Android version in development | Java, Python |
-| [ Fling ](https://tenzinkalsang.online/modular-index/Fling) | 2D physics-based inspired by Jumpking | Phaser 3, JavaScript |
-| [ Geolocation Alarm ](https://tenzinkalsang.online/modular-index/Geolocate-alarm/index.html) | Location based alarm rings within 500mtr of marked Desti | html/Css, Js, leaflet |
-| [ Bootloader ](https://github.com/fawfol/bootloader) | simple bootloader | x86 Assembly, Makefile |
-| [ MazeGame in asm ](https://github.com/fawfol/MazeGame-x86asm-) | ASCII maze game built with low-level memory control and terminal-based UI | x86 Assembly|
+| [ **Kalsang OS** ](https://github.com/fawfol/myos) | A custom 32-bit x86 monolithic kernel and self-hosting operating system. Includes a custom C library and memory management. | C, x86 Assembly, Makefile |
+| [ **STM32 Bare-Metal** ](https://github.com/fawfol/stm32f103c8t6-OS) | Firmware development and hardware control for the STM32F103C8T6 (Blue Pill), manipulating hardware registers directly. | C, ARM Cortex-M, Microcontrollers |
+| [ **Custom Bootloader** ](https://github.com/fawfol/bootloader) | A low-level x86 bootloader interacting directly with BIOS interrupts to load sectors from disk to memory. | x86 Assembly, Bare-Metal |
+| [ **MazeGame in ASM** ](https://github.com/fawfol/MazeGame-x86asm-) | Terminal-based ASCII maze game built entirely with low-level memory control and CPU registers. | x86 Assembly |
+
+## 💻 Software & Application Development
+
+| Project | Description | Tech Stack |
+|--------|-------------|------|
+| [ Tibetan Transliterator ](https://huggingface.co/spaces/FAWFUL67/en2bo) | Transliterator to convert English phonetics into Tibetan text. | Java, Python |
+| [ Duogram ](https://github.com/fawfol/duogram) | A React Native app for two people to share private moments using real-time sync. | React Native, Firebase, Agora |
+| [ Fling ](https://tenzinkalsang.online/modular-index/Fling) | 2D physics-based platformer. | Phaser 3, JavaScript |
+| [ Geolocation Alarm ](https://tenzinkalsang.online/modular-index/Geolocate-alarm/index.html) | Location-based alarm that rings within 500m of a marked destination. | HTML/CSS, JS, Leaflet |
 
 > 🧪 You can explore all of these on my [portfolio site](https://tenzinkalsang.online) 
 
 ---
 
-## 🌐 Socials:
+## 🛠️ Tech Stack
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tttt___kalsang)&emsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tenzin-kalsang-090985285)&emsp;
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30116302)&emsp;
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kalsang_y0)&emsp;
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Hilarious_Monke)&emsp;
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kalsangkalsang5@gmail.com)
-
----
-
-## 💻 Tech Stack:
+**Low-Level & Systems:**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![AssemblyScript](https://img.shields.io/badge/x86%20Assembly-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Software & Web:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![VB](https://img.shields.io/badge/Visual%20Basic-(6.0)(.net)-blue?style=for-the-badge&logo=visualbasic)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats:
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tenzin-kalsang-090985285)&emsp;
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30116302)&emsp;
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Hilarious_Monke)&emsp;
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kalsangkalsang5@gmail.com)&emsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tttt___kalsang)
+
+---
+
+## 📊 GitHub Stats
 
 <!--START_SECTION:github-stats-->
 ![](https://github-readme-stats.vercel.app/api?username=fawfol&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
@@ -78,18 +84,4 @@ I enjoy **understanding systems deeply** , whether it's crafting frontends UIs, 
 
 ---
 
-### ✍️ Random Quotes
-<!--START_SECTION:random-quote-->
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-<!--END_SECTION:random-quote-->
-
----
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=fawfol&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=fawfol&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly customized with 💙 by Tenzin & GPRM -->
