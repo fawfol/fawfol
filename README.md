@@ -20,7 +20,6 @@ I specialize in bridging the gap between hardware and software. I enjoy building
 |--------|-------------|------|
 | [ **Kalsang OS** ](https://github.com/fawfol/myos) | A custom 32-bit x86 monolithic kernel and self-hosting operating system. Includes a custom C library and memory management. | C, x86 Assembly, Makefile |
 | [ **STM32 Bare-Metal** ](https://github.com/fawfol/stm32f103c8t6-OS) | Firmware development and hardware control for the STM32F103C8T6 (Blue Pill), manipulating hardware registers directly. | C, ARM Cortex-M, Microcontrollers |
-|
 | [ **STM32 Handheld Game Console** ](https://github.com/fawfol/STM32-HandHeld-Gaming-console)| Fully custom battery poered retro gaming console built around STM32F103C8Tx (ARM Cortex-M2) Mcu | C, ARM Cortex-M, Microcontrollers |
 | [ **Custom Bootloader** ](https://github.com/fawfol/bootloader) | A low-level x86 bootloader interacting directly with BIOS interrupts to load sectors from disk to memory. | x86 Assembly, Bare-Metal |
 | [ **MazeGame in ASM** ](https://github.com/fawfol/MazeGame-x86asm-) | Terminal-based ASCII maze game built entirely with low-level memory control and CPU registers. | x86 Assembly |
