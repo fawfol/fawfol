@@ -1,6 +1,6 @@
 # ⚙️ Tenzin Kalsang | Embedded Systems & Firmware
 👋 Hi, I’m **Tenzin Kalsang**  
-⚙️ **Embedded Firmware Engineer | Low-Level Systems Developer | OS Enthusiast**
+⚙️ **Embedded Firmware Engineer | Low-Level Systems Developer | OS Enthusiast | Post Silcon validation**
 
 I specialize in bridging the gap between hardware and software. I enjoy building systems from the silicon registers up—whether that's writing custom x86 bootloaders, developing monolithic kernels in C, or programming ARM microcontrollers. 
 
